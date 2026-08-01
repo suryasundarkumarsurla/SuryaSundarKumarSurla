@@ -1,15 +1,13 @@
 <div align="center">
-  <img src="Github Banner.gif" alt="Surya's Banner" width="100%">
-  
-  <h1>⚡ SURYA SUNDAR KUMAR SURLA ⚡</h1>
+  <h1>⚡ WELCOME TO MY PROFILE ⚡</h1>
   <h3>Data Analyst & Data Engineer | Power Platform Architect</h3>
   
   <p><b>Architecting robust data pipelines and transforming complex datasets into futuristic insights.</b></p>
 
   <p>
-    <a href="https://www.linkedin.com/in/suryasundarkumarsurla/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://www.kaggle.com/suryasundarkumar"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
-    <a href="https://www.hackerrank.com/suryasundarkuma1"><img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=green" alt="HackerRank" /></a>
+    <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
+    <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=green" alt="HackerRank" /></a>
   </p>
 </div>
 
@@ -17,8 +15,8 @@
 
 ## 💫 System Directives: About Me
 
-- 🔭 **Current Protocol:** BI Developer at Lingaro India Pvt Ltd, focusing on robust data engineering and analytics.[cite: 1]
-- ⚙️ **Hardware/Origin:** Graduated with a Bachelor of Technology in Mechanical Engineering from Sagi Rama Krishnam Raju Engineering College (2022).[cite: 1]
+- 🔭 **Current Protocol:** BI Developer at Lingaro India Pvt Ltd, focusing on robust data engineering and analytics.
+- ⚙️ **Hardware/Origin:** Graduated with a Bachelor of Technology in Mechanical Engineering from Sagi Rama Krishnam Raju Engineering College (2022).
 - 🧠 **Processing Power:** Operating with 5 years of industry experience as a Power BI developer, specializing in scalable enterprise data models, complex ETL pipelines, and high-performance reporting solutions.
 - 📡 **Off-Grid Protocols:** Licensed Amateur Radio Operator (VU2JFN) utilizing APRS frameworks, and continuously upgrading data science foundations in preparation for the GATE Data Science & AI exam.
 - 🌱 **Open Ports:** Currently open to collaborating on cutting-edge data engineering architectures, Tableau analytics, and Power Platform initiatives. 
@@ -45,15 +43,15 @@ If you're interested in ETL architecture, statistical modeling, or automated rep
 
 ## 🏆 Verified Certifications
 
-*   **Microsoft Certified:** Power BI Data Analyst Associate (PL-300)[cite: 1]
-*   **Microsoft Certified:** Power Platform Functional Consultant Associate (PL-200)[cite: 1]
+*   **Microsoft Certified:** Power BI Data Analyst Associate (PL-300)
+*   **Microsoft Certified:** Power Platform Functional Consultant Associate (PL-200)
 *   **Oracle Certified:** Generative AI Professional
 
 ---
 <div align="center">
   <br>
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=SuryaSundarKumarS&icon=0&color=0" alt="Profile Views">
+    <img src="https://visitcount.itsvg.in/api?id=your-github-id-here&icon=0&color=0" alt="Profile Views">
   </a>
   <p><i>End of Line.</i></p>
 </div>
