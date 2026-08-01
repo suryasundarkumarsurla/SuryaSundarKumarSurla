@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>⚡ WELCOME TO MY PROFILE ⚡</h1>
-  <h3>Data Analyst & Data Engineer | Power Platform Architect</h3>
+  <h1>⚡ Welcome to my profile ⚡</h1>
+  <h3>Data Analyst & Data Engineer</h3>
   
   <p><b>Architecting robust data pipelines and transforming complex datasets into futuristic insights.</b></p>
 
@@ -19,7 +19,7 @@
 - ⚙️ **Hardware/Origin:** Graduated with a Bachelor of Technology in Mechanical Engineering from Sagi Rama Krishnam Raju Engineering College (2022).
 - 🧠 **Processing Power:** Operating with 5 years of industry experience as a Power BI developer, specializing in scalable enterprise data models, complex ETL pipelines, and high-performance reporting solutions.
 - 📡 **Off-Grid Protocols:** Licensed Amateur Radio Operator (VU2JFN) utilizing APRS frameworks, and continuously upgrading data science foundations in preparation for the GATE Data Science & AI exam.
-- 🌱 **Open Ports:** Currently open to collaborating on cutting-edge data engineering architectures, Tableau analytics, and Power Platform initiatives. 
+- 🌱 **Open Ports:** Currently open to collaborating on cutting-edge data engineering architectures, Tableau analytics, and Machine Learning initiatives. 
 
 If you're interested in ETL architecture, statistical modeling, or automated reporting pipelines, feel free to ping my server! I'm highly passionate about building the infrastructure that makes big data actionable. 
 
