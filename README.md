@@ -2,7 +2,7 @@
 
 # ⚡ Surya Sundar Kumar Surla
 
-### Power Platform Developer | Power BI | Business Intelligence
+### Power Platform Developer
 
 <p>
   Building scalable business applications, automated workflows, and data-driven
