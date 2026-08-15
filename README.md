@@ -103,58 +103,6 @@ accounts to translate business requirements into scalable solutions using:
 </p>
 ---
 
-## 💼 What I Work On
-
-### 🔹 Power Apps
-
-Developing business applications using:
-
-- Canvas Apps
-- Model-Driven Apps
-- Dataverse
-- Forms and business rules
-- Application navigation and user experience
-- Data validation
-- Business process automation
-
-### 🔹 Power Automate
-
-Building automated workflows for:
-
-- Approvals
-- Notifications
-- Data synchronization
-- Business process automation
-- Scheduled workflows
-- Integration between Power Platform services
-- REST API integrations
-
-### 🔹 Power BI
-
-Developing enterprise analytics solutions involving:
-
-- Data modeling
-- DAX measures and calculated columns
-- Power Query transformations
-- KPI reporting
-- Interactive dashboards
-- Power BI Service
-- Scheduled refreshes
-- Workspace management
-- Performance optimization
-
-### 🔹 Data & Integration
-
-Working with:
-
-- SQL
-- Relational data
-- REST APIs
-- Dataverse
-- ETL workflows
-- Data transformation
-- Large analytical datasets
-
 ---
 
 ## 🏆 Certifications
@@ -189,29 +137,8 @@ View Achievement ↗
 
 ---
 
-## 📂 Featured Work
-
-My repositories focus on practical solutions around:
-
-- 📊 Power BI dashboards and analytics
-- 🎨 Power BI report themes and visualization
-- ⚡ Power Automate workflows
-- 📱 Power Apps solutions
-- 🗃️ Data transformation and modeling
-- 📈 Business Intelligence projects
-- 🧮 DAX and analytical solutions
-- 🐍 Python-based data analysis
-
-Check out my repositories below to explore my projects and implementations.
 
 ---
-
-## 🎓 Education
-
-**Bachelor of Technology — Mechanical Engineering**
-
-Sagi Rama Krishnam Raju Engineering College  
-2018 – 2022
 
 ---
 
