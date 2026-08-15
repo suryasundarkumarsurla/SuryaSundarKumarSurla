@@ -61,30 +61,37 @@ accounts to translate business requirements into scalable solutions using:
 
 ### 🟦 Microsoft Power Platform
 
+<p>
 <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps"/>
 <img src="https://img.shields.io/badge/Canvas_Apps-742774?style=for-the-badge&logo=microsoftpowerapps&logoColor=white" alt="Canvas Apps"/>
 <img src="https://img.shields.io/badge/Model--Driven_Apps-742774?style=for-the-badge&logo=microsoftpowerapps&logoColor=white" alt="Model-Driven Apps"/>
 <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate"/>
 <img src="https://img.shields.io/badge/Dataverse-742774?style=for-the-badge&logo=microsoft&logoColor=white" alt="Dataverse"/>
+</p>
 
 ### 📊 Business Intelligence
 
+<p>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 <img src="https://img.shields.io/badge/Power_BI_Desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Desktop"/>
 <img src="https://img.shields.io/badge/Power_BI_Service-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Service"/>
 <img src="https://img.shields.io/badge/DAX-005288?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX"/>
 <img src="https://img.shields.io/badge/Power_Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Query"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+</p>
 
 ### 💻 Programming & Data
 
+<p>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/ETL-4B5563?style=for-the-badge&logo=databricks&logoColor=white" alt="ETL"/>
 <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+</p>
 
 ### ⚙️ Development & Optimization
 
+<p>
 <img src="https://img.shields.io/badge/DAX_Studio-000000?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX Studio"/>
 <img src="https://img.shields.io/badge/Tabular_Editor-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Tabular Editor"/>
 <img src="https://img.shields.io/badge/Measure_Killer-4B0082?style=for-the-badge&logo=microsoft&logoColor=white" alt="Measure Killer"/>
@@ -92,7 +99,8 @@ accounts to translate business requirements into scalable solutions using:
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-
+<img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Agile"/>
+</p>
 ---
 
 ## 💼 What I Work On
