@@ -1,57 +1,236 @@
 <div align="center">
-  <h1>⚡ Welcome to my profile ⚡</h1>
-  <h3>Data Analyst & Data Engineer</h3>
-  
-  <p><b>Architecting robust data pipelines and transforming complex datasets into futuristic insights.</b></p>
 
-  <p>
-    <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
-    <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=green" alt="HackerRank" /></a>
-  </p>
+# ⚡ Surya Sundar Kumar Surla
+
+### Power Platform Developer | Power BI | Business Intelligence
+
+<p>
+  Building scalable business applications, automated workflows, and data-driven
+  analytics solutions using the Microsoft Power Platform.
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/suryasundarkumarsurla/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/suryasundarkumarsurla">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
 </div>
 
 ---
 
-## 💫 System Directives: About Me
+## 👨‍💻 About Me
 
-- 🔭 **Current Protocol:** BI Developer at Lingaro India Pvt Ltd, focusing on robust data engineering and analytics.
-- ⚙️ **Hardware/Origin:** Graduated with a Bachelor of Technology in Mechanical Engineering from Sagi Rama Krishnam Raju Engineering College (2022).
-- 🧠 **Processing Power:** Operating with 5 years of industry experience as a Power BI developer, specializing in scalable enterprise data models, complex ETL pipelines, and high-performance reporting solutions.
-- 📡 **Off-Grid Protocols:** Licensed Amateur Radio Operator (VU2JFN) utilizing APRS frameworks, and continuously upgrading data science foundations in preparation for the GATE Data Science & AI exam.
-- 🌱 **Open Ports:** Currently open to collaborating on cutting-edge data engineering architectures, Tableau analytics, and Machine Learning initiatives. 
+I'm a **Power Platform Developer with 3+ years of experience** designing and delivering
+enterprise business applications, workflow automation, and Business Intelligence
+solutions.
 
-If you're interested in ETL architecture, statistical modeling, or automated reporting pipelines, feel free to ping my server! I'm highly passionate about building the infrastructure that makes big data actionable. 
+Currently working at **Lingaro India Pvt. Ltd.**, where I work across multiple client
+accounts to translate business requirements into scalable solutions using:
+
+- **Microsoft Power Apps**
+- **Power Automate**
+- **Microsoft Dataverse**
+- **Power BI**
+- **DAX**
+- **Power Query (M)**
+- **SQL**
+- **REST APIs**
+- **ETL & Data Modeling**
+
+### 🚀 Professional Highlights
+
+- 🏢 Worked across **3 global client accounts**
+- 📱 Built **1 Canvas App**
+- 🧩 Built **5 Model-Driven Apps**
+- ⚡ Developed **10+ Power Automate flows**
+- 📊 Delivered **5 enterprise Power BI reports**
+- 👥 Supported solutions used by **50+ users**
+- 🗄️ Worked with analytical datasets containing **1B+ records**
+- 🚀 Improved Power BI report performance by up to **50%**
+- 📉 Reduced manual reporting effort by **40%**
+- ⭐ Achieved **95% user satisfaction**
+- 🔄 Reduced ad-hoc reporting requests by **30%**
 
 ---
 
-## 💻 Technical Arsenal
+## 🛠️ Technical Skills
 
-### 📊 Data Analysis & Business Intelligence
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> <img src="https://img.shields.io/badge/DAX-005288?style=for-the-badge&logo=microsoft&logoColor=white"> <img src="https://img.shields.io/badge/Power_Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+### 🟦 Microsoft Power Platform
 
-### 🛠 Data Engineering & Architecture
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"> <img src="https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"> <img src="https://img.shields.io/badge/ETL_Pipelines-000000?style=for-the-badge&logo=data&logoColor=white">
+<img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps"/>
+<img src="https://img.shields.io/badge/Canvas_Apps-742774?style=for-the-badge&logo=microsoftpowerapps&logoColor=white" alt="Canvas Apps"/>
+<img src="https://img.shields.io/badge/Model--Driven_Apps-742774?style=for-the-badge&logo=microsoftpowerapps&logoColor=white" alt="Model-Driven Apps"/>
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate"/>
+<img src="https://img.shields.io/badge/Dataverse-742774?style=for-the-badge&logo=microsoft&logoColor=white" alt="Dataverse"/>
 
-### 🤖 Programming & Statistical Analysis
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+### 📊 Business Intelligence
 
-### 🔧 Advanced Optimization Tools
-<img src="https://img.shields.io/badge/DAX_Studio-000000?style=for-the-badge&logo=microsoft&logoColor=white"> <img src="https://img.shields.io/badge/Tabular_Editor-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"> <img src="https://img.shields.io/badge/ALM_Toolkit-005288?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Measure_Killer-4B0082?style=for-the-badge&logo=microsoft&logoColor=white">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Power_BI_Desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Desktop"/>
+<img src="https://img.shields.io/badge/Power_BI_Service-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Service"/>
+<img src="https://img.shields.io/badge/DAX-005288?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX"/>
+<img src="https://img.shields.io/badge/Power_Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Query"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+
+### 💻 Programming & Data
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/ETL-4B5563?style=for-the-badge&logo=databricks&logoColor=white" alt="ETL"/>
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+
+### ⚙️ Development & Optimization
+
+<img src="https://img.shields.io/badge/DAX_Studio-000000?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX Studio"/>
+<img src="https://img.shields.io/badge/Tabular_Editor-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Tabular Editor"/>
+<img src="https://img.shields.io/badge/Measure_Killer-4B0082?style=for-the-badge&logo=microsoft&logoColor=white" alt="Measure Killer"/>
+<img src="https://img.shields.io/badge/ALM_Toolkit-005288?style=for-the-badge&logo=windows&logoColor=white" alt="ALM Toolkit"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 
 ---
 
-## 🏆 Verified Certifications
+## 💼 What I Work On
 
-*   **Microsoft Certified:** Power BI Data Analyst Associate (PL-300)
-*   **Microsoft Certified:** Power Platform Functional Consultant Associate (PL-200)
-*   **Oracle Certified:** Generative AI Professional
+### 🔹 Power Apps
+
+Developing business applications using:
+
+- Canvas Apps
+- Model-Driven Apps
+- Dataverse
+- Forms and business rules
+- Application navigation and user experience
+- Data validation
+- Business process automation
+
+### 🔹 Power Automate
+
+Building automated workflows for:
+
+- Approvals
+- Notifications
+- Data synchronization
+- Business process automation
+- Scheduled workflows
+- Integration between Power Platform services
+- REST API integrations
+
+### 🔹 Power BI
+
+Developing enterprise analytics solutions involving:
+
+- Data modeling
+- DAX measures and calculated columns
+- Power Query transformations
+- KPI reporting
+- Interactive dashboards
+- Power BI Service
+- Scheduled refreshes
+- Workspace management
+- Performance optimization
+
+### 🔹 Data & Integration
+
+Working with:
+
+- SQL
+- Relational data
+- REST APIs
+- Dataverse
+- ETL workflows
+- Data transformation
+- Large analytical datasets
 
 ---
+
+## 🏆 Certifications
+
+### Microsoft Certified: Power BI Data Analyst Associate
+
+**PL-300**
+
+<a href="https://learn.microsoft.com/api/credentials/share/en-in/SurlaSuryaSundarKumar/C0D40D0ECDFE9EFB?sharingId=4C396E282E986C9C">
+View Microsoft Credential ↗
+</a>
+
+### Microsoft Certified: Power Platform Functional Consultant Associate
+
+**PL-200**
+
+<a href="https://learn.microsoft.com/api/credentials/share/en-in/SurlaSuryaSundarKumar/A078F34F420E8A79?sharingId=4C396E282E986C9C">
+View Microsoft Credential ↗
+</a>
+
+---
+
+## 🏅 Awards & Achievements
+
+### 🥇 Top Performer — DataBuzz Power BI Challenge, July 2026
+
+Recognized for developing a high-impact **Power BI solution for UK Real Estate Analytics**.
+
+<a href="https://www.linkedin.com/posts/thedatabuzz_powerbi-databuzz-powerbicontest-activity-7492465733281628161-SfHx">
+View Achievement ↗
+</a>
+
+---
+
+## 📂 Featured Work
+
+My repositories focus on practical solutions around:
+
+- 📊 Power BI dashboards and analytics
+- 🎨 Power BI report themes and visualization
+- ⚡ Power Automate workflows
+- 📱 Power Apps solutions
+- 🗃️ Data transformation and modeling
+- 📈 Business Intelligence projects
+- 🧮 DAX and analytical solutions
+- 🐍 Python-based data analysis
+
+Check out my repositories below to explore my projects and implementations.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology — Mechanical Engineering**
+
+Sagi Rama Krishnam Raju Engineering College  
+2018 – 2022
+
+---
+
+## 🌐 Connect With Me
+
+I'm interested in opportunities involving:
+
+**Power Platform | Power Apps | Power Automate | Dataverse | Power BI | Business Intelligence | Data Analytics**
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/suryasundarkumarsurla/">
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/suryasundarkumarsurla">
+<img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
 <div align="center">
-  <br>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=your-github-id-here&icon=0&color=0" alt="Profile Views">
-  </a>
-  <p><i>End of Line.</i></p>
+
+### ⚡ Building business solutions. Automating processes. Turning data into decisions.
+
+<i>Thanks for visiting my profile!</i>
+
 </div>
