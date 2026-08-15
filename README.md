@@ -101,7 +101,6 @@ accounts to translate business requirements into scalable solutions using:
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 <img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Agile"/>
 </p>
----
 
 ---
 
@@ -135,30 +134,6 @@ Recognized for developing a high-impact **Power BI solution for UK Real Estate A
 View Achievement ↗
 </a>
 
----
-
-
----
-
----
-
-## 🌐 Connect With Me
-
-I'm interested in opportunities involving:
-
-**Power Platform | Power Apps | Power Automate | Dataverse | Power BI | Business Intelligence | Data Analytics**
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/suryasundarkumarsurla/">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/suryasundarkumarsurla">
-<img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
